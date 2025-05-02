@@ -182,7 +182,7 @@ Valid Values: airline-directory-full, airline-directory-shortened, nil (disabled
           (const :tag "powerline:  #xe0a2" #xe0a2)
           (const :tag "vim-powerline: ⭤ #x2b64" #x2b64)))
 
-(defcustom airline-utf-glyph-linenumber #x2630
+(defcustom airline-utf-glyph-linenumber #x2550
   "The unicode character number used for the linenumber symbol."
   :group 'airline-themes
   :type '(choice
